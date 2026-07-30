@@ -38,7 +38,7 @@ Entry-level **Cybersecurity** and **Cloud Security** professional with hands-on 
 | 🔗 Computer Networking | Google (Coursera) |
 
 **Achievements:**
-- 🌍 **Top 3 Globally** - Google Cloud × Hack2Skill Competition
+- 🌍 **Top 3 Globally** - Google Cloud × Hack2Skill Quiz Competition
 - 🏆 **2× Winner** - National-Level Hackathons
 - 🤾 National-Level Handball Player
 
@@ -88,7 +88,10 @@ Entry-level **Cybersecurity** and **Cloud Security** professional with hands-on 
 ### 💼 Experience
 
 **Application Development Intern** @ Bajaj Finserv *(Feb 2026 – Present)*
-- Developed Flutter-based cross-platform PoC reducing frontend effort by ~40%
+- **Architected Cross-Platform SDUI:** Engineered a unified Flutter PoC (iOS, Android, Web) utilizing Server-Driven UI to render dynamic components from backend JSON schemas, reducing frontend dev time by 40% and UI release cycles by 60%
+- **Modernized Legacy Tech Stack:** Evaluated migration from hybrid Native/PWA architecture to single codebase, improving cross-platform feature parity to 100% while cutting maintenance overhead across 2 platform teams
+- **Cross-Functional Collaboration:** Partnered with 3+ engineering and product teams in Agile environment to document technical requirements and maintain delivery trackers across 10+ enterprise deliverables
+- **Enhanced Application Security:** Designed secure authentication checks and client-side input validation within SDUI parser, strengthening resilience against OWASP Top 10 web and mobile security risks
 
 **Cyber Security & Digital Forensics Intern** @ Cyber Secured India *(Apr 2025 – Jun 2025)*
 - Monitored security logs in SOC environment using Wireshark
