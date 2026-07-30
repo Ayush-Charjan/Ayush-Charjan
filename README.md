@@ -130,7 +130,7 @@ Entry-level **Cybersecurity** and **Cloud Security** professional with hands-on 
   </a>
 </p>
 
-📍 **Location:** Pune · Nashik · Goa · Maharashtra, India
+📍 **Location:** Pune · Nashik · Goa · 
 
 ---
 
