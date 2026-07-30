@@ -38,7 +38,7 @@ Entry-level **Cybersecurity** and **Cloud Security** professional with hands-on 
 | 🔗 Computer Networking | Google (Coursera) |
 
 **Achievements:**
-- 🌍 **Top 3 Globally** - Google Cloud × Hack2Skill Quiz Competition
+- 🌍 **Top 3 Globally** - Google Cloud × Hack2Skill Competition
 - 🏆 **2× Winner** - National-Level Hackathons
 - 🤾 National-Level Handball Player
 
